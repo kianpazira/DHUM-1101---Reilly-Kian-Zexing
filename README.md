@@ -1,1 +1,4 @@
-# Group-Story-1
+# Twine Story
+
+A choose-your-own adventure
+By Kian, Zexing, and Reilly
