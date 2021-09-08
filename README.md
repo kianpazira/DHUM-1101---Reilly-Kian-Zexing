@@ -13,4 +13,5 @@ Step 5: Make your changes in Twine\
 Step 6: When you're done, use the up arrow next to the name of story, and hit "Publish to File"\
 Step 7: Name the file "index.md"\
 Step 8: Add the file to the github repository\
-Step 9: Commit the changes!
+Step 9: Commit the changes!\
+https://kianpazira.github.io/DHUM-1101---Reilly-Kian-Zexing/
