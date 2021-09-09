@@ -15,15 +15,40 @@ What would you like to do?
 &lt;img src=&quot;https://image.slidesharecdn.com/t-t-5080-the-three-little-pigs-story-powerpoint-141127060151-conversion-gate02/95/the-three-little-pigs-story-2-638.jpg?cb=1417068238&quot;&gt;
 
 [[Get Started!]]
-[[Quit]]</tw-passagedata><tw-passagedata pid="2" name="Quit" tags="" position="487,336" size="100,100">Thank you!</tw-passagedata><tw-passagedata pid="3" name="Get Started!" tags="" position="367,336" size="100,100">You have chosen to start this journey...
+[[Quit]]</tw-passagedata><tw-passagedata pid="2" name="Quit" tags="" position="487,336" size="100,100">Thank you!
+
+[[Intro]]</tw-passagedata><tw-passagedata pid="3" name="Get Started!" tags="" position="367,336" size="100,100">You have chosen to start this journey...
 Welcome!
 
-You are a pig, living peacefully in the countryside
-You have just moved to a new village, and need to build a home!
+You are a pig, living peacefully in the countryside.
+Your mother did not have enough to feed you and your brothers, so she kicked you all out.
+
+You will be starting a new life, and you will need to build a home!
 
 &lt;img src=&quot;assets/three-little-pigs.jpg&quot;&gt;
 
-[[Continue]]</tw-passagedata><tw-passagedata pid="4" name="Continue" tags="" position="266,494" size="100,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
+[[Continue]]</tw-passagedata><tw-passagedata pid="4" name="Continue" tags="" position="266,494" size="100,100">You are given three routes to building your home.
+
+Option 1: You construct your home out of straw, but you will spend a total of 1 day constructing it. With the time you save, you will be able to start your new life earlier.  
+
+Option 2: You construct your home out of wood that you collect from a nearby forest, but you will spend a total of 10 days constructing it. The start to your new life will be slightly delayed, but you will have a more stable house than the one made out of straw. 
+
+Option 3: You construct your home out of brick, but you will spend a total of 25 days constructing it. The start to your life is heavily delayed, but you will have a much more stable house than the ones made out of straw and wood.
+
+Which option interests you most?
+
+[[Option 1: Straw House]]
+[[Option 2: Wood House]]
+[[Option 3: Brick House]]</tw-passagedata><tw-passagedata pid="5" name="Option 1: Straw House" tags="" position="146,644" size="100,100">Congratulations on your new straw home!
+
+The first week has passed, and your new home has been holding up well without any structural damage.
+
+However, you hear that a very large, hungry wolf is making a special appearance to the small town your house is situated in, and he has very bad intentions. 
+
+There is a very high chance that he will attempt to blow down your house to devour you.
+
+You have two options: 
+Option 1: Remain in your house with confidence that your house will not be damaged </tw-passagedata><tw-passagedata pid="6" name="Option 2: Wood House" tags="" position="296,644" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="465,640" size="100,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">"use strict";var _slicedToArray=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,a=!1,i=void 0;try{for(var o,s=e[Symbol.iterator]();!(r=(o=s.next()).done)&&(n.push(o.value),!t||n.length!==t);r=!0);}catch(e){a=!0,i=e}finally{try{!r&&s.return&&s.return()}finally{if(a)throw i}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}!function(){
 /**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
