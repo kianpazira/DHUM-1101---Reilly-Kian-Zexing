@@ -117,7 +117,10 @@ However, you hear that a very large, hungry wolf is making an appearance to the 
 [[Proceed.]]
 
 &lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/c/cb/Queerie_Queers_-_Three_Little_Pigs_007.png&quot;, width = 340, height = 180
-&lt;audio src = &quot;https://freesound.org/data/previews/456/456966_6456158-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="8" name="Escape to Wooden House" tags="" position="130,764" size="100,100">You have successfully arrived at your brother&#39;s wooden house, however the wolf managed to follow you there by following your footsteps.
+
+&lt;audio src =&quot;https://freesound.org/data/previews/425/425995_1857065-lq.mp3&quot; autoplay&gt;
+&lt;audio src =&quot;https://freesound.org/data/previews/400/400991_5121236-lq.mp3&quot; autoplay&gt;
+&lt;audio src =&quot;https://freesound.org/data/previews/262/262000_3820822-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="8" name="Escape to Wooden House" tags="" position="130,764" size="100,100">You have successfully arrived at your brother&#39;s wooden house, however the wolf managed to follow you there by following your footsteps.
 
 &lt;img src=&quot;http://4.bp.blogspot.com/-QobuLWJWXX0/UPJTRmSvLTI/AAAAAAAABOc/1A_RDGIuYm8/s1600/Three+Little+pigs2.jpg&quot;&gt;
 Now, you and your brother have an important decision to make: 
