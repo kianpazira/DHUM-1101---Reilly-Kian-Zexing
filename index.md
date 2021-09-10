@@ -9,55 +9,93 @@
 </head>
 <body>
 <tw-story><noscript><tw-noscript>JavaScript needs to be enabled to play SampleTwine.</tw-noscript></noscript></tw-story>
-<tw-storydata name="SampleTwine" startnode="1" creator="Twine" creator-version="2.3.14" ifid="42634FBE-5DD9-4D5D-8FC2-EAE70D068DE2" zoom="1" format="Harlowe" format-version="3.2.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Intro" tags="" position="671,79" size="100,100">Welcome to the story of the Three Little Pigs!
+<tw-storydata name="SampleTwine" startnode="1" creator="Twine" creator-version="2.3.14" ifid="42634FBE-5DD9-4D5D-8FC2-EAE70D068DE2" zoom="1" format="Harlowe" format-version="3.2.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Intro" tags="" position="550,163" size="100,100">Welcome to the story of the Three Little Pigs!
 What would you like to do?
 
 &lt;img src=&quot;https://image.slidesharecdn.com/t-t-5080-the-three-little-pigs-story-powerpoint-141127060151-conversion-gate02/95/the-three-little-pigs-story-2-638.jpg?cb=1417068238&quot;&gt;
 
 [[Get Started!]]
-[[Quit]]</tw-passagedata><tw-passagedata pid="2" name="Quit" tags="" position="981,240" size="100,100">Thank you!
+[[Quit]]
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="3" name="Get Started!" tags="" position="265,195" size="100,100">You have chosen to start this journey...
+//(text-colour:(hsl:0,0.8039,0.5,0.5))[And you may try your fortune, if you may allow me the chance...]//</tw-passagedata><tw-passagedata pid="2" name="Quit" tags="" position="748,299" size="100,100">Thank you!
+
+[[Intro]]</tw-passagedata><tw-passagedata pid="3" name="Get Started!" tags="" position="320,298" size="100,100">You have chosen to start this journey...
 Welcome!
 
 You are a pig, living peacefully in the countryside.
 Your mother did not have enough to feed you and your brothers, so she kicked you all out.
 
-You will be starting a new life, and you will need to build a home!
+(text-colour:(hsl:0,0.8039,0.5,0.4))[(Though you thought that you pigs do not have the nuclear family structure like the English, that by dispersing your family members you have nothing to gain but everything to lose, and that you might be in some strange fairy tale situation whose meaning went wierd in that process of collective reconstruction...)]
 
-&lt;img src=&quot;assets/three-little-pigs.jpg&quot;&gt;
+(text-colour:red)[//Regardless, you are set...//]
 
-[[Continue]]</tw-passagedata><tw-passagedata pid="4" name="Continue" tags="" position="601,336" size="100,100">You are given three routes to building your home.
+You are starting a new life, a life cut off from your ties, and you must decide for yourself. You are a pig, so you are very smart, very rational
 
-Option 1: You construct your home out of straw, but you will spend a total of 1 day constructing it. With the time you save, you will be able to start your new life earlier.  
+(text-colour:(hsl:0,0.8039,0.5,0.3))[//...and why should rationality fail?//]
 
-Option 2: You construct your home out of wood that you collect from a nearby forest, but you will spend a total of 10 days constructing it. The start to your new life will be slightly delayed, but you will have a more stable house than the one made out of straw. 
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/a/aa/Queerie_Queers_-_Three_Little_Pigs_011.png&quot;, width = 400, height = 400&gt;
 
-Option 3: You construct your home out of brick, but you will spend a total of 25 days constructing it. The start to your life is heavily delayed, but you will have a much more stable house than the ones made out of straw and wood.
+[[Continue]]</tw-passagedata><tw-passagedata pid="4" name="Continue" tags="" position="536,438" size="100,100">(text-colour:(hsl:0,0.8039,0.5,0.7))[//Sojourning in a cave, dark, deeper inside, strange illusions wirling...//]
 
-Which option interests you most?
+You miss that air of homeliness back home (text-colour:(hsl:0,0.8039,0.5,0.4))[//whether real or feigned//] and you try to create certainty in this alienated world resisting your apprehension.
 
-[[Option 1: Straw House]]
-[[Option 2: Wooden House]]
-[[Option 3: Brick House]]</tw-passagedata><tw-passagedata pid="5" name="Option 1: Straw House" tags="" position="144,461" size="100,100">Congratulations on your new straw home!
+Option 1: You construct your home out of straw (text-colour:(hsl:0,0.8039,0.5,0.7))[//René Descartes? A good one...//] After all, swine you are made, you may live swinishly (text-colour:(hsl:0,0.8039,0.5,0.4))[//and he that wise man never came home.//]
+
+[[I shall catch straws, in the wind...-&gt;Option 1: Straw House]] 
+
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/f/f5/Aristida_arizonica_-_Flickr_-_aspidoscelis_%284%29.jpg&quot;, width = 400, height = 250&gt;
+
+Option 2: You may also build yourself a wooden hut. (text-colour:(hsl:0,0.8039,0.5,0.7))[//Woods silent, shady path into the heart of darkness//] Sound and humble, and invisible in the wood(text-colour:(hsl:0,0.8039,0.5,0.4))[//there! come with me!//]
+
+[[I shall amass wood, the axe shining...-&gt;Option 2: Wood House]] 
+
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/e/e6/Huts_between_trees_%28SM_4789z%29.png&quot;, width = 400, height = 245&gt;
+
+Option 3: You have the bonus option of brick (text-colour:(hsl:0,0.8039,0.5,0.7))[//even though you do not know how to have them: mud, and what?//] You lay the bricks under the Sun, waiting for the vapor to come out(text-colour:(hsl:0,0.8039,0.5,0.4))[//Solid are the stone walls, guarding the gentle space inside...//]
+
+[[And we will have a city of red bricks!-&gt;Option 3: Brick House]] 
+
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Joseph_Smith_Red_Brick_Store_in_Nauvoo.jpg/320px-Joseph_Smith_Red_Brick_Store_in_Nauvoo.jpg&quot;&gt;
+
+(text-colour:(hsl:0,0.8039,0.5,0.7))[//And you shall try your fate//]</tw-passagedata><tw-passagedata pid="5" name="Option 1: Straw House" tags="" position="157,542" size="100,100">Congratulations on your new straw home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
 However, you hear that a very large, hungry wolf is making an appearance to the small village your house is situated in.
 
-[[Proceed]]</tw-passagedata><tw-passagedata pid="6" name="Option 2: Wooden House" tags="" position="629,465" size="100,100">Congratulations on your new wooden home!
+His first stop is your house, and there is a very high chance that he will attempt to blow down your house to devour you.
+
+You have two options: 
+Option 1: Remain in your house, confident that your house will not be blown away by the wolf
+Option 2: Run to your brother&#39;s wooden house to escape the wolf.
+
+Please choose an option.
+
+[[Stay Put]]
+[[Escape to Wooden House]]
+
+
+
+(text-colour:(hsl:0,0.8039,0.5,0.3))[//You know, it&#39;s just a story...so why not you try your fate...//]
+[[Down! My House Shall Go Down!]]
+
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/1/14/Three_little_pigs%2C_straw.jpg&quot;&gt;</tw-passagedata><tw-passagedata pid="6" name="Option 2: Wood House" tags="" position="559,597" size="100,100">Congratulations on your new straw home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
 However, you hear that a very large, hungry wolf is making an appearance to the small village your house is situated in.
 
-[[Next.]]</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="898,409" size="100,100">Congratulations on your new brick home!
+[[Next.]]
+
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/d/d2/Odin_and_Fenris_-_Dorothy_Hardy.png&quot;, width = 200, height = 300&gt;</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="794,600" size="100,100">Congratulations on your new straw home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
 However, you hear that a very large, hungry wolf is making an appearance to the small village your house is situated in.
 
-[[Proceed.]]</tw-passagedata><tw-passagedata pid="8" name="Escape to Wooden House" tags="" position="107,758" size="100,100">You have successfully arrived at your brother&#39;s wooden house, however the wolf managed to follow you there by following your footsteps.
+[[Proceed.]]
+
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/c/cb/Queerie_Queers_-_Three_Little_Pigs_007.png&quot;, width = 340, height = 180&gt;</tw-passagedata><tw-passagedata pid="8" name="Escape to Wooden House" tags="" position="130,764" size="100,100">You have successfully arrived at your brother&#39;s wooden house, however the wolf managed to follow you there by following your footsteps.
 
 Now, you and your brother have an important decision to make: 
 
@@ -67,30 +105,53 @@ Or, you both may escape to your other brother&#39;s brick house to avoid being e
 Which do you choose?
 
 [[Stay Put]] 
-[[Escape to Brick House]] </tw-passagedata><tw-passagedata pid="9" name="Stay Put" tags="" position="627,1098" size="100,100">Unfortunately, the wolf was able to blow the house down, and he devoured you.
+[[Escape to Brick House]] </tw-passagedata><tw-passagedata pid="9" name="Stay Put" tags="" position="715,1142" size="100,100">Unfortunately, the wolf was able to blow the house down, and he devoured you.
 
 Thank you for playing!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="10" name="Escape to Brick House" tags="" position="245,949" size="100,100">Fortunately, you and your brother have successfully arrived at your third brother&#39;s brick house. 
+[[Intro]]</tw-passagedata><tw-passagedata pid="10" name="Escape to Brick House" tags="" position="258,960" size="100,100">Fortunately, you and your brother have successfully arrived at your third brother&#39;s brick house. 
 
 The wolf has once again been able to follow you to the house, and he is the most hungry he has ever been. Once again, you and your brothers must make a decision to either stay put in the house or escape.
 
 [[Stay Put in Brick House]]
-[[Escape]]</tw-passagedata><tw-passagedata pid="11" name="Stay Put in Brick House" tags="" position="60,1045" size="100,100">Fortunately, staying put in the brick house was the correct decision in this case. 
+[[Escape]]</tw-passagedata><tw-passagedata pid="11" name="Stay Put in Brick House" tags="" position="145,1110" size="100,100">Fortunately, staying put in the brick house was the correct decision in this case. 
 
 The hungry wolf was unable to blow the house down, regardless of how hard he blew.
 
-[[Next]]</tw-passagedata><tw-passagedata pid="12" name="Escape" tags="" position="312,1133" size="100,100">Unfortunately, the wolf could not be fooled again. He was expecting you and your brothers to escape the house.
+After many unsuccessful tries, the wolf seemingly grew fatigued. It is unclear at what his next plan would be, so you and your brothers must predict his next move in order to survive.
+
+You and your brothers must make one final decision.
+
+Option 1: Ignite a fire in the fireplace and place a large pot full of water ontop of the flame, assuming that the wolf will sneak down the chimney.
+Option 2: Barricade the windows made of glass with bookshelves, chairs, and tables, assuming that the wolf will blow his way through the windows.
+
+Please select an option based on your prediction.
+
+[[Option 1: Boiling Pot in Fireplace]]
+[[Option 2: Barricade the Windows]]</tw-passagedata><tw-passagedata pid="12" name="Escape" tags="" position="312,1133" size="100,100">Unfortunately, the wolf could not be fooled again. He was expecting you and your brothers to escape the house.
 
 You had a good run, but sadly, you and your brothers provided the wolf with a 3-course meal.
 
 Thank you for your participation!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="13" name="Proceed." tags="" position="876,539" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
+[[Intro]]</tw-passagedata><tw-passagedata pid="13" name="Proceed." tags="" position="840,737" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
 
 However, the wolf managed to trace the footsteps of your brother to your other brother&#39;s wooden house. Once again, they were able to escape the wolf and ventured off to your brick house. The wolf managed to follow them this time as well. 
 
-[[Continue.]]</tw-passagedata><tw-passagedata pid="14" name="Next." tags="" position="580,604" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
+The wolf is the most hungry he has ever been, and he is looking to devour all three of you. 
+
+You have two options: 
+Option 1: Remain in your house, confident that your house will not be blown away by the wolf.
+Option 2: Run to your older brother&#39;s brick house to escape the wolf.
+
+Please choose an option.
+[[Stay Put in the Brick House]]
+[[Escape]]
+
+(text-colour:(hsl:0,0.8039,0.5,0.4))[//You know that your mansion is strong enough...//]
+[[The Solid Construction]]
+
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Queerie_Queers_-_Three_Little_Pigs_010.png/287px-Queerie_Queers_-_Three_Little_Pigs_010.png&quot;&gt;</tw-passagedata><tw-passagedata pid="14" name="Stay Put in the Brick House" tags="" position="856,900" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="15" name="Next." tags="" position="663,717" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
 
 However, the wolf managed to trace the footsteps of your brother to your house, and he is now looking to devour you both.
 
@@ -101,7 +162,12 @@ Option 2: Run to your older brother&#39;s brick house to escape the wolf.
 Please choose an option.
 
 [[Stay Put]]
-[[Escape to Brick House]]</tw-passagedata><tw-passagedata pid="15" name="Option 1: Boiling Pot in Fireplace" tags="" position="92,1369" size="100,100">Fortunately, you have made the correct prediction!
+[[Escape to Brick House]]
+
+(text-colour:(hsl:0,0.8039,0.5,0.3))[//Suddenly, a strange calmness strikes, you see the dark woods outside the window, fitting for hiding...//]
+[[And you goes into the heart of darkness -&gt;In the woods]]
+
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Queerie_Queers_-_Three_Little_Pigs_003.png/294px-Queerie_Queers_-_Three_Little_Pigs_003.png&quot;&gt;</tw-passagedata><tw-passagedata pid="16" name="Option 1: Boiling Pot in Fireplace" tags="" position="70,1260" size="100,100">Fortunately, you have made the correct prediction!
 
 The wolf made his way ontop of the roof, and planned to go down through the chimney to reach you and your brothers.
 
@@ -111,7 +177,7 @@ That very night, you and your brothers enjoyed wolf soup for dinner.
 
 Thank you for your participation and your survival!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="16" name="Option 2: Barricade the Windows" tags="" position="266,1355" size="100,100">Unfortunately, this was not the correct prediction. 
+[[Intro]]</tw-passagedata><tw-passagedata pid="17" name="Option 2: Barricade the Windows" tags="" position="220,1260" size="100,100">Unfortunately, this was not the correct prediction. 
 
 The wolf made his way ontop of the roof, and planned to go down through the chimney to reach you and your brothers.
 
@@ -120,34 +186,61 @@ Once the wolf made his way through the chimney and to the fireplace, you and you
 This time, however, the wolf managed to outrun you all. You and your brothers were devoured thereafter. 
 
 Thank you for your participation!
-[[Intro]]</tw-passagedata><tw-passagedata pid="17" name="Proceed" tags="" position="127,607" size="100,100">The wolf&#39;s first stop is your house, and there is a very high chance that he will attempt to blow down your house to devour you.
+[[Intro]]</tw-passagedata><tw-passagedata pid="18" name="Down! My House Shall Go Down!" tags="" position="18,586" size="100,100">You pulled down your houseeven before you have seen the wolf. It appears a random haystack, promising no nourishing dinner inside, and the wolf ignore it. Comfortably inside the straws, a strange sleep falls on you, and when you wake up it is dark outside. A sweet tireness softens your bone...
 
-You have two options: 
-Option 1: Remain in your house, confident that your house will not be blown away by the wolf
-Option 2: Run to your brother&#39;s wooden house to escape the wolf.
+Fin
 
-Please choose an option.
+(text-colour:(hsl:0,0.8039,0.5,0.7))[//For swine you are, and like a swine you shall live...this is the happiness of a swine//]
 
-[[Stay Put]]
-[[Escape to Wooden House]]</tw-passagedata><tw-passagedata pid="18" name="Continue." tags="" position="853,677" size="100,100">The wolf is the most hungry he has ever been, and he is looking to devour all three of you. 
+(text-colour:(hsl:0,0.8039,0.5,0.3))[But, what if the wolf comes down again?]
 
-You have two options: 
-Option 1: Remain in your house, confident that your house will not be blown away by the wolf.
-Option 2: Run to your older brother&#39;s brick house to escape the wolf.
+[[Next-&gt;...]]</tw-passagedata><tw-passagedata pid="19" name="In the woods" tags="" position="504,827" size="100,100">//Once upon a time there lived on the borders of a great forest a woodman and his wife who had one little daughter, a sweet, kind child, whom everyone loved. She was the joy of her mother&#39;s heart, and to please her, the good woman made her a little scarlet cloak...//
 
-Please choose an option.
-[[Stay Put in Brick House]]
-[[Escape]]</tw-passagedata><tw-passagedata pid="19" name="Next" tags="" position="36,1198" size="100,100">After many unsuccessful tries, the wolf grew very fatigued. It is unclear at what his next plan would be, so you and your brothers must predict his next move in order to survive.
+(text-colour:(hsl:0,0.8039,0.5,0.7))[What? I should not be telling this story? But never mind, it&#39;s just a story:)]
 
-You must make one final decision.
+(text-colour:(hsl:0,0.8039,0.5,0.45))[And that poor creature hastly hid itself the wood, not knowing the truth clad under that darkness...]
 
-Option 1: Ignite a fire in the fireplace and place a large pot full of water ontop of the flame, assuming that the wolf will sneak down the chimney.
-Option 2: Barricade the windows made of glass with bookshelves, chairs, and tables, assuming that the wolf will blow his way through the windows.
+(text-colour:(hsl:0,0.8039,0.5,0.45))[Yes, scarlet it is, but do not you find it strange?...]
 
-Please select an option based on your prediction.
+//...and the hunter rescued them from the belly of the wolf//
 
-[[Option 1: Boiling Pot in Fireplace]]
-[[Option 2: Barricade the Windows]]</tw-passagedata></tw-storydata>
+Great! The wolf is no more! Heaven sent!
+
+(text-colour:(hsl:0,0.8039,0.5,0.45))[...you know it is impossible to open the gut of that beast and find them still alive, then the sole answer must be...]
+
+(text-colour:(hsl:0,0.8039,0.5,0.45))[See it! In its //actual// form!]
+
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DBP_1960_340_Wohlfahrt_Rotk%C3%A4ppchen.jpg/280px-DBP_1960_340_Wohlfahrt_Rotk%C3%A4ppchen.jpg&quot;&gt;
+
+[[...-&gt;The Heart of Darkness]]</tw-passagedata><tw-passagedata pid="20" name="The Heart of Darkness" tags="" position="491,1047" size="100,100">10th of September last, two...found in the wood, one being the old lady...the other, a deformed creature...first dicovered by the girl...(text-colour:red)[in Scarlet]
+
+[[Now you see it...-&gt;...]]
+
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/In_the_Dark_Woods_%285107954480%29.jpg/320px-In_the_Dark_Woods_%285107954480%29.jpg&quot;&gt;</tw-passagedata><tw-passagedata pid="21" name="The Solid Construction" tags="" position="694,941" size="100,100">(text-colour:(hsl:0,0.8039,0.5,0.8))[You do trust your construction...or simplay fail to see?]
+
+The wolf huffs and puffs, huffs and puffs, //and the fine structure disintegrates//
+
+(text-colour:(hsl:0,0.8039,0.5,0.8))[&quot;Yes, it is like that...&quot;]
+
+(text-colour:(hsl:0,0.8039,0.5,0.8))[Mud! Mud! It is mud in side! And now it gushes out!]
+
+(text-colour:(hsl:0,0.8039,0.5,0.8))[&quot;...and never a solid core.&quot;]
+
+[[...]]</tw-passagedata><tw-passagedata pid="22" name="..." tags="" position="96,278" size="100,100">You wake up and find all this a dream.
+
+It&#39;s a dream, so it&#39;s like everywhere but leads to no end, and does not necessarily make any sense.
+
+You recollect those horrible details: those surely could not make a good story but can still be interesting... aren&#39;t they?
+
+
+
+
+
+
+
+(text-colour:(hsl:0,0.8039,0.5,0.45))[BUT MANY FIND THEIR OLD NIGHTMARES PURSUE THEM, AND THAT TAINT OF DARKNESS PERMEATES THEIR HEART!]
+
+[[Time to wake up...-&gt;Intro]]</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">"use strict";var _slicedToArray=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,a=!1,i=void 0;try{for(var o,s=e[Symbol.iterator]();!(r=(o=s.next()).done)&&(n.push(o.value),!t||n.length!==t);r=!0);}catch(e){a=!0,i=e}finally{try{!r&&s.return&&s.return()}finally{if(a)throw i}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}!function(){
 /**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
