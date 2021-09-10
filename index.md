@@ -153,7 +153,7 @@ The wolf has once again been able to follow you to the house, and he is the most
 
 The hungry wolf was unable to blow the house down, regardless of how hard he blew.
 
-&lt;img src = &quot;https://corecubed.com/wp-content/uploads/2016/03/3littlepigs-1.jpg&quot;&gt;
+&lt;img src = &quot;https://i.pinimg.com/originals/12/de/c7/12dec700ca07dd0fcea02c618bb264ef.jpg&quot;&gt;
 
 After many unsuccessful tries, the wolf seemingly grew fatigued. It is unclear at what his next plan would be, so you and your brothers must predict his next move in order to survive.
 
