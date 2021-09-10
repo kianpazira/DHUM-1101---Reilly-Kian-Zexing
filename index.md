@@ -38,20 +38,20 @@ Option 3: You construct your home out of brick, but you will spend a total of 25
 Which option interests you most?
 
 [[Option 1: Straw House]]
-[[Option 2: Wood House]]
+[[Option 2: Wooden House]]
 [[Option 3: Brick House]]</tw-passagedata><tw-passagedata pid="5" name="Option 1: Straw House" tags="" position="144,461" size="100,100">Congratulations on your new straw home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
 However, you hear that a very large, hungry wolf is making an appearance to the small village your house is situated in.
 
-[[Proceed]]</tw-passagedata><tw-passagedata pid="6" name="Option 2: Wood House" tags="" position="599,465" size="100,100">Congratulations on your new wooden home!
+[[Proceed]]</tw-passagedata><tw-passagedata pid="6" name="Option 2: Wooden House" tags="" position="629,465" size="100,100">Congratulations on your new wooden home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
 However, you hear that a very large, hungry wolf is making an appearance to the small village your house is situated in.
 
-[[Next.]]</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="892,445" size="100,100">Congratulations on your new brick home!
+[[Next.]]</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="898,409" size="100,100">Congratulations on your new brick home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
@@ -80,35 +80,17 @@ The wolf has once again been able to follow you to the house, and he is the most
 
 The hungry wolf was unable to blow the house down, regardless of how hard he blew.
 
-After many unsuccessful tries, the wolf grew very fatigued. It is unclear at what his next plan would be, so you and your brothers must predict his next move in order to survive.
-
-You must make one final decision.
-
-Option 1: Ignite a fire in the fireplace and place a large pot full of water ontop of the flame, assuming that the wolf will sneak down the chimney.
-Option 2: Barricade the windows made of glass with bookshelves, chairs, and tables, assuming that the wolf will blow his way through the windows.
-
-Please select an option based on your prediction.
-
-[[Option 1: Boiling Pot in Fireplace]]
-[[Option 2: Barricade the Windows]]</tw-passagedata><tw-passagedata pid="12" name="Escape" tags="" position="312,1133" size="100,100">Unfortunately, the wolf could not be fooled again. He was expecting you and your brothers to escape the house.
+[[Next]]</tw-passagedata><tw-passagedata pid="12" name="Escape" tags="" position="312,1133" size="100,100">Unfortunately, the wolf could not be fooled again. He was expecting you and your brothers to escape the house.
 
 You had a good run, but sadly, you and your brothers provided the wolf with a 3-course meal.
 
 Thank you for your participation!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="13" name="Proceed." tags="" position="863,610" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
+[[Intro]]</tw-passagedata><tw-passagedata pid="13" name="Proceed." tags="" position="876,539" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
 
 However, the wolf managed to trace the footsteps of your brother to your other brother&#39;s wooden house. Once again, they were able to escape the wolf and ventured off to your brick house. The wolf managed to follow them this time as well. 
 
-The wolf is the most hungry he has ever been, and he is looking to devour all three of you. 
-
-You have two options: 
-Option 1: Remain in your house, confident that your house will not be blown away by the wolf.
-Option 2: Run to your older brother&#39;s brick house to escape the wolf.
-
-Please choose an option.
-[[Stay Put in Brick House]]
-[[Escape]]</tw-passagedata><tw-passagedata pid="14" name="Next." tags="" position="580,604" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
+[[Continue.]]</tw-passagedata><tw-passagedata pid="14" name="Next." tags="" position="580,604" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
 
 However, the wolf managed to trace the footsteps of your brother to your house, and he is now looking to devour you both.
 
@@ -119,7 +101,7 @@ Option 2: Run to your older brother&#39;s brick house to escape the wolf.
 Please choose an option.
 
 [[Stay Put]]
-[[Escape to Brick House]]</tw-passagedata><tw-passagedata pid="15" name="Option 1: Boiling Pot in Fireplace" tags="" position="94,1265" size="100,100">Fortunately, you have made the correct prediction!
+[[Escape to Brick House]]</tw-passagedata><tw-passagedata pid="15" name="Option 1: Boiling Pot in Fireplace" tags="" position="92,1369" size="100,100">Fortunately, you have made the correct prediction!
 
 The wolf made his way ontop of the roof, and planned to go down through the chimney to reach you and your brothers.
 
@@ -129,7 +111,7 @@ That very night, you and your brothers enjoyed wolf soup for dinner.
 
 Thank you for your participation and your survival!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="16" name="Option 2: Barricade the Windows" tags="" position="220,1260" size="100,100">Unfortunately, this was not the correct prediction. 
+[[Intro]]</tw-passagedata><tw-passagedata pid="16" name="Option 2: Barricade the Windows" tags="" position="266,1355" size="100,100">Unfortunately, this was not the correct prediction. 
 
 The wolf made his way ontop of the roof, and planned to go down through the chimney to reach you and your brothers.
 
@@ -147,7 +129,25 @@ Option 2: Run to your brother&#39;s wooden house to escape the wolf.
 Please choose an option.
 
 [[Stay Put]]
-[[Escape to Wooden House]]</tw-passagedata></tw-storydata>
+[[Escape to Wooden House]]</tw-passagedata><tw-passagedata pid="18" name="Continue." tags="" position="853,677" size="100,100">The wolf is the most hungry he has ever been, and he is looking to devour all three of you. 
+
+You have two options: 
+Option 1: Remain in your house, confident that your house will not be blown away by the wolf.
+Option 2: Run to your older brother&#39;s brick house to escape the wolf.
+
+Please choose an option.
+[[Stay Put in Brick House]]
+[[Escape]]</tw-passagedata><tw-passagedata pid="19" name="Next" tags="" position="36,1198" size="100,100">After many unsuccessful tries, the wolf grew very fatigued. It is unclear at what his next plan would be, so you and your brothers must predict his next move in order to survive.
+
+You must make one final decision.
+
+Option 1: Ignite a fire in the fireplace and place a large pot full of water ontop of the flame, assuming that the wolf will sneak down the chimney.
+Option 2: Barricade the windows made of glass with bookshelves, chairs, and tables, assuming that the wolf will blow his way through the windows.
+
+Please select an option based on your prediction.
+
+[[Option 1: Boiling Pot in Fireplace]]
+[[Option 2: Barricade the Windows]]</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">"use strict";var _slicedToArray=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,a=!1,i=void 0;try{for(var o,s=e[Symbol.iterator]();!(r=(o=s.next()).done)&&(n.push(o.value),!t||n.length!==t);r=!0);}catch(e){a=!0,i=e}finally{try{!r&&s.return&&s.return()}finally{if(a)throw i}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}!function(){
 /**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
