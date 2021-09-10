@@ -9,15 +9,15 @@
 </head>
 <body>
 <tw-story><noscript><tw-noscript>JavaScript needs to be enabled to play SampleTwine.</tw-noscript></noscript></tw-story>
-<tw-storydata name="SampleTwine" startnode="1" creator="Twine" creator-version="2.3.14" ifid="42634FBE-5DD9-4D5D-8FC2-EAE70D068DE2" zoom="1" format="Harlowe" format-version="3.2.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Intro" tags="" position="412,186" size="100,100">Welcome to the story of the Three Little Pigs!
+<tw-storydata name="SampleTwine" startnode="1" creator="Twine" creator-version="2.3.14" ifid="42634FBE-5DD9-4D5D-8FC2-EAE70D068DE2" zoom="1" format="Harlowe" format-version="3.2.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Intro" tags="" position="549,163" size="100,100">Welcome to the story of the Three Little Pigs!
 What would you like to do?
 
 &lt;img src=&quot;https://image.slidesharecdn.com/t-t-5080-the-three-little-pigs-story-powerpoint-141127060151-conversion-gate02/95/the-three-little-pigs-story-2-638.jpg?cb=1417068238&quot;&gt;
 
 [[Get Started!]]
-[[Quit]]</tw-passagedata><tw-passagedata pid="2" name="Quit" tags="" position="487,336" size="100,100">Thank you!
+[[Quit]]</tw-passagedata><tw-passagedata pid="2" name="Quit" tags="" position="724,303" size="100,100">Thank you!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="3" name="Get Started!" tags="" position="367,336" size="100,100">You have chosen to start this journey...
+[[Intro]]</tw-passagedata><tw-passagedata pid="3" name="Get Started!" tags="" position="382,310" size="100,100">You have chosen to start this journey...
 Welcome!
 
 You are a pig, living peacefully in the countryside.
@@ -27,7 +27,7 @@ You will be starting a new life, and you will need to build a home!
 
 &lt;img src=&quot;assets/three-little-pigs.jpg&quot;&gt;
 
-[[Continue]]</tw-passagedata><tw-passagedata pid="4" name="Continue" tags="" position="266,494" size="100,100">You are given three routes to building your home.
+[[Continue]]</tw-passagedata><tw-passagedata pid="4" name="Continue" tags="" position="536,474" size="100,100">You are given three routes to building your home.
 
 Option 1: You construct your home out of straw, but you will spend a total of 1 day constructing it. With the time you save, you will be able to start your new life earlier.  
 
@@ -39,16 +39,36 @@ Which option interests you most?
 
 [[Option 1: Straw House]]
 [[Option 2: Wood House]]
-[[Option 3: Brick House]]</tw-passagedata><tw-passagedata pid="5" name="Option 1: Straw House" tags="" position="146,644" size="100,100">Congratulations on your new straw home!
+[[Option 3: Brick House]]</tw-passagedata><tw-passagedata pid="5" name="Option 1: Straw House" tags="" position="229,606" size="100,100">Congratulations on your new straw home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
-However, you hear that a very large, hungry wolf is making a special appearance to the small town your house is situated in, and he has very bad intentions. 
+However, you hear that a very large, hungry wolf is making an appearance to the small town your house is situated in.
 
-There is a very high chance that he will attempt to blow down your house to devour you.
+His first stop is your house, and there is a very high chance that he will attempt to blow down your house to devour you.
 
 You have two options: 
-Option 1: Remain in your house with confidence that your house will not be damaged </tw-passagedata><tw-passagedata pid="6" name="Option 2: Wood House" tags="" position="296,644" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="465,640" size="100,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
+Option 1: Remain in your house, confident that your house will not be blown away by the wolf
+Option 2: Run to your brother&#39;s wooden house to escape the wolf.
+
+Please choose an option.
+
+[[Stay Put]]
+[[Escape to Wooden House]]</tw-passagedata><tw-passagedata pid="6" name="Option 2: Wood House" tags="" position="521,652" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="811,626" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="8" name="Escape to Wooden House" tags="" position="130,764" size="100,100">You have successfully arrived at your brother&#39;s wooden house, however the wolf managed to follow you there by following your footsteps.
+
+Now, you and your brother have an important decision to make: 
+
+Stay put and be confident that the wood is durable enough to withstand the blowing of the wolf. 
+Or, you both may escape to your other brother&#39;s brick house to avoid being eaten.
+
+Which do you choose?
+
+[[Stay Put]] 
+[[Escape to Brick House]] </tw-passagedata><tw-passagedata pid="9" name="Stay Put" tags="" position="560,1145" size="100,100">Unfortunately, the wolf was able to blow the house down, and he devoured you.
+
+Thank you for playing!
+
+[[Intro]]</tw-passagedata><tw-passagedata pid="10" name="Escape to Brick House" tags="" position="74,925" size="100,100">Fortunately, you and your brother have successfully arrived at your third brother&#39;s brick house</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">"use strict";var _slicedToArray=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,a=!1,i=void 0;try{for(var o,s=e[Symbol.iterator]();!(r=(o=s.next()).done)&&(n.push(o.value),!t||n.length!==t);r=!0);}catch(e){a=!0,i=e}finally{try{!r&&s.return&&s.return()}finally{if(a)throw i}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}!function(){
 /**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
