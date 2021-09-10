@@ -10,32 +10,43 @@
 <body>
 <tw-story><noscript><tw-noscript>JavaScript needs to be enabled to play SampleTwine.</tw-noscript></noscript></tw-story>
 <tw-storydata name="SampleTwine" startnode="1" creator="Twine" creator-version="2.3.14" ifid="42634FBE-5DD9-4D5D-8FC2-EAE70D068DE2" zoom="1" format="Harlowe" format-version="3.2.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Intro" tags="" position="550,163" size="100,100">Welcome to the story of the Three Little Pigs!
-What would you like to do?
+In this experience, you will have the agency to control one of these three porcine protagonists!
 
-&lt;img src=&quot;https://image.slidesharecdn.com/t-t-5080-the-three-little-pigs-story-powerpoint-141127060151-conversion-gate02/95/the-three-little-pigs-story-2-638.jpg?cb=1417068238&quot;&gt;
+
+&lt;img src=&quot;https://oakhouseschool.com/wp-content/uploads/2018/12/three-little-pigs.jpg&quot;&gt;
+
+What would you like to do?
 
 [[Get Started!]]
 [[Quit]]
 
-//(text-colour:(hsl:0,0.8039,0.5,0.5))[And you may try your fortune, if you may allow me the chance...]//</tw-passagedata><tw-passagedata pid="2" name="Quit" tags="" position="748,299" size="100,100">Thank you!
+&lt;audio src=&quot;https://freesound.org/data/previews/442/442911_3556771-lq.mp3&quot; autoplay&gt;
 
+//(text-colour:(hsl:0,0.8039,0.5,0.5))[And you may try your fortune, if you may allow me the chance...]//</tw-passagedata><tw-passagedata pid="2" name="Quit" tags="" position="748,299" size="100,100">Gone so soon?
+
+Okay...
+
+&lt;audio src=&quot;https://freesound.org/data/previews/57/57728_718003-lq.mp3&quot; autoplay&gt;
 [[Intro]]</tw-passagedata><tw-passagedata pid="3" name="Get Started!" tags="" position="320,298" size="100,100">You have chosen to start this journey...
 Welcome!
 
 You are a pig, living peacefully in the countryside.
 Your mother did not have enough to feed you and your brothers, so she kicked you all out.
 
-(text-colour:(hsl:0,0.8039,0.5,0.4))[(Though you thought that you pigs do not have the nuclear family structure like the English, that by dispersing your family members you have nothing to gain but everything to lose, and that you might be in some strange fairy tale situation whose meaning went wierd in that process of collective reconstruction...)]
+(text-colour:(hsl:0,0.8039,0.5,0.4))[(Though you thought that you pigs do not have the nuclear family structure like the English, that by dispersing your family members you have nothing to gain but everything to lose, and that you might be in some strange fairy tale situation whose meaning went weird in that process of collective reconstruction...)]
 
 (text-colour:red)[//Regardless, you are set...//]
 
-You are starting a new life, a life cut off from your ties, and you must decide for yourself. You are a pig, so you are very smart, very rational
+You are starting a new life, a life cut off from your ties, and you must decide for yourself. You are a pig, so you are very smart, and very rational.
 
 (text-colour:(hsl:0,0.8039,0.5,0.3))[//...and why should rationality fail?//]
 
+
 &lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/a/aa/Queerie_Queers_-_Three_Little_Pigs_011.png&quot;, width = 400, height = 400&gt;
 
-[[Continue]]</tw-passagedata><tw-passagedata pid="4" name="Continue" tags="" position="536,438" size="100,100">(text-colour:(hsl:0,0.8039,0.5,0.7))[//Sojourning in a cave, dark, deeper inside, strange illusions wirling...//]
+[[Continue]]
+
+&lt;audio src=&quot;https://freesound.org/data/previews/511/511590_5479102-lq.mp3&quot; autoplay loop&gt;</tw-passagedata><tw-passagedata pid="4" name="Continue" tags="" position="536,438" size="100,100">(text-colour:(hsl:0,0.8039,0.5,0.7))[//Sojourning in a cave, dark, deeper inside, strange illusions wirling...//]
 
 You miss that air of homeliness back home (text-colour:(hsl:0,0.8039,0.5,0.4))[//whether real or feigned//] and you try to create certainty in this alienated world resisting your apprehension.
 
@@ -57,7 +68,9 @@ Option 3: You have the bonus option of brick (text-colour:(hsl:0,0.8039,0.5,0.7)
 
 &lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Joseph_Smith_Red_Brick_Store_in_Nauvoo.jpg/320px-Joseph_Smith_Red_Brick_Store_in_Nauvoo.jpg&quot;&gt;
 
-(text-colour:(hsl:0,0.8039,0.5,0.7))[//And you shall try your fate//]</tw-passagedata><tw-passagedata pid="5" name="Option 1: Straw House" tags="" position="157,542" size="100,100">Congratulations on your new straw home!
+&lt;audio src = &quot;https://freesound.org/data/previews/167/167385_1037961-lq.mp3&quot; autoplay loop&gt;
+
+(text-colour:(hsl:0,0.8039,0.5,0.7))[//And you shall try your fate//]</tw-passagedata><tw-passagedata pid="5" name="Option 1: Straw House" tags="" position="156,543" size="100,100">Congratulations on your new straw home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
@@ -65,8 +78,13 @@ However, you hear that a very large, hungry wolf is making an appearance to the 
 
 His first stop is your house, and there is a very high chance that he will attempt to blow down your house to devour you.
 
-You have two options: 
+You have two options:
+
+&lt;img src = &quot;http://4.bp.blogspot.com/_h5DTV--cNLI/TRvGZt783uI/AAAAAAAAK18/dlC-hmqaBak/s1600/three%2Bpigs%2Bstraw.jpg&quot; width = 408&gt;
 Option 1: Remain in your house, confident that your house will not be blown away by the wolf
+
+&lt;img src = &quot;https://www.shortstoriesforkids.net/wp-content/uploads/2018/09/the-three-little-pigs-story-4.jpg&quot;&gt;
+
 Option 2: Run to your brother&#39;s wooden house to escape the wolf.
 
 Please choose an option.
@@ -77,9 +95,11 @@ Please choose an option.
 
 
 (text-colour:(hsl:0,0.8039,0.5,0.3))[//You know, it&#39;s just a story...so why not you try your fate...//]
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/1/14/Three_little_pigs%2C_straw.jpg&quot;&gt;
 [[Down! My House Shall Go Down!]]
 
-&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/1/14/Three_little_pigs%2C_straw.jpg&quot;&gt;</tw-passagedata><tw-passagedata pid="6" name="Option 2: Wood House" tags="" position="559,597" size="100,100">Congratulations on your new straw home!
+&lt;audio src = &quot;https://freesound.org/data/previews/456/456966_6456158-lq.mp3&quot; autoplay&gt;
+&lt;audio src = &quot;https://freesound.org/data/previews/134/134023_1535323-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="6" name="Option 2: Wood House" tags="" position="559,597" size="100,100">Congratulations on your new wooden home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
@@ -87,7 +107,8 @@ However, you hear that a very large, hungry wolf is making an appearance to the 
 
 [[Next.]]
 
-&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/d/d2/Odin_and_Fenris_-_Dorothy_Hardy.png&quot;, width = 200, height = 300&gt;</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="794,600" size="100,100">Congratulations on your new straw home!
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/d/d2/Odin_and_Fenris_-_Dorothy_Hardy.png&quot;, width = 200, height = 300&gt;
+&lt;audio src = &quot;https://freesound.org/data/previews/456/456966_6456158-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="794,600" size="100,100">Congratulations on your new brick home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
@@ -95,68 +116,97 @@ However, you hear that a very large, hungry wolf is making an appearance to the 
 
 [[Proceed.]]
 
-&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/c/cb/Queerie_Queers_-_Three_Little_Pigs_007.png&quot;, width = 340, height = 180&gt;</tw-passagedata><tw-passagedata pid="8" name="Escape to Wooden House" tags="" position="130,764" size="100,100">You have successfully arrived at your brother&#39;s wooden house, however the wolf managed to follow you there by following your footsteps.
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/c/cb/Queerie_Queers_-_Three_Little_Pigs_007.png&quot;, width = 340, height = 180
+&lt;audio src = &quot;https://freesound.org/data/previews/456/456966_6456158-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="8" name="Escape to Wooden House" tags="" position="130,764" size="100,100">You have successfully arrived at your brother&#39;s wooden house, however the wolf managed to follow you there by following your footsteps.
 
+&lt;img src=&quot;http://4.bp.blogspot.com/-QobuLWJWXX0/UPJTRmSvLTI/AAAAAAAABOc/1A_RDGIuYm8/s1600/Three+Little+pigs2.jpg&quot;&gt;
 Now, you and your brother have an important decision to make: 
 
-Stay put and be confident that the wood is durable enough to withstand the blowing of the wolf. 
-Or, you both may escape to your other brother&#39;s brick house to avoid being eaten.
+Option 1: Stay put and be confident that the wood is durable enough to withstand the blowing of the wolf. 
+
+Option 2: Or, you both may escape to your other brother&#39;s brick house to avoid being eaten.
 
 Which do you choose?
 
 [[Stay Put]] 
-[[Escape to Brick House]] </tw-passagedata><tw-passagedata pid="9" name="Stay Put" tags="" position="715,1142" size="100,100">Unfortunately, the wolf was able to blow the house down, and he devoured you.
+[[Escape to Brick House]] 
+&lt;audio src = &quot;https://freesound.org/data/previews/535/535011_2346185-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="9" name="Stay Put" tags="" position="715,1142" size="100,100">Unfortunately, the wolf was able to blow the house down, allowing him to chase after you, and speed is not a pig&#39;s strength.
+
+What could you have done differently?
+
+&lt;img src=&quot;https://static.tvtropes.org/pmwiki/pub/images/big_bad_wolf_1.png&quot;&gt;
 
 Thank you for playing!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="10" name="Escape to Brick House" tags="" position="258,960" size="100,100">Fortunately, you and your brother have successfully arrived at your third brother&#39;s brick house. 
+[[Intro]]
+
+&lt;audio src=&quot;https://freesound.org/data/previews/67/67032_321967-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="10" name="Escape to Brick House" tags="" position="258,960" size="100,100">Fortunately, you and your brother have successfully arrived at your third brother&#39;s brick house. 
+
+&lt;img src=&quot;https://www.centritechnology.com/wp-content/uploads/2015/12/3littlepigs.png&quot;&gt;
 
 The wolf has once again been able to follow you to the house, and he is the most hungry he has ever been. Once again, you and your brothers must make a decision to either stay put in the house or escape.
 
 [[Stay Put in Brick House]]
-[[Escape]]</tw-passagedata><tw-passagedata pid="11" name="Stay Put in Brick House" tags="" position="145,1110" size="100,100">Fortunately, staying put in the brick house was the correct decision in this case. 
+[[Escape]]
+
+&lt;audio src =&quot;https://freesound.org/data/previews/494/494741_10707760-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="11" name="Stay Put in Brick House" tags="" position="145,1110" size="100,100">Fortunately, staying put in the brick house was the correct decision in this case. 
 
 The hungry wolf was unable to blow the house down, regardless of how hard he blew.
+
+&lt;img src = &quot;https://corecubed.com/wp-content/uploads/2016/03/3littlepigs-1.jpg&quot;&gt;
 
 After many unsuccessful tries, the wolf seemingly grew fatigued. It is unclear at what his next plan would be, so you and your brothers must predict his next move in order to survive.
 
 You and your brothers must make one final decision.
 
 Option 1: Ignite a fire in the fireplace and place a large pot full of water ontop of the flame, assuming that the wolf will sneak down the chimney.
+
 Option 2: Barricade the windows made of glass with bookshelves, chairs, and tables, assuming that the wolf will blow his way through the windows.
 
 Please select an option based on your prediction.
 
 [[Option 1: Boiling Pot in Fireplace]]
-[[Option 2: Barricade the Windows]]</tw-passagedata><tw-passagedata pid="12" name="Escape" tags="" position="312,1133" size="100,100">Unfortunately, the wolf could not be fooled again. He was expecting you and your brothers to escape the house.
+[[Option 2: Barricade the Windows]]
+
+&lt;audio src=&quot;https://freesound.org/data/previews/480/480931_10282847-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="12" name="Escape" tags="" position="311,1133" size="100,100">Unfortunately, the wolf could not be fooled again. He was expecting you and your brothers to escape the house.
+
+&lt;img src = &quot;https://static.miraheze.org/allthetropeswiki/2/20/S_Revenge_7075.jpg&quot;&gt;
 
 You had a good run, but sadly, you and your brothers provided the wolf with a 3-course meal.
 
 Thank you for your participation!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="13" name="Proceed." tags="" position="840,737" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
+[[Intro]]
+
+&lt;audio src=&quot;https://freesound.org/data/previews/67/67032_321967-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="13" name="Proceed." tags="" position="840,737" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
 
 However, the wolf managed to trace the footsteps of your brother to your other brother&#39;s wooden house. Once again, they were able to escape the wolf and ventured off to your brick house. The wolf managed to follow them this time as well. 
+
+&lt;img src = &quot;https://worldstories.org.uk/content/book/262/__picture_9353.jpg&quot;&gt;
 
 The wolf is the most hungry he has ever been, and he is looking to devour all three of you. 
 
 You have two options: 
 Option 1: Remain in your house, confident that your house will not be blown away by the wolf.
+
 Option 2: Run to your older brother&#39;s brick house to escape the wolf.
 
 Please choose an option.
-[[Stay Put in the Brick House]]
+[[Stay Put in Brick House]]
 [[Escape]]
 
 (text-colour:(hsl:0,0.8039,0.5,0.4))[//You know that your mansion is strong enough...//]
 [[The Solid Construction]]
 
-&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Queerie_Queers_-_Three_Little_Pigs_010.png/287px-Queerie_Queers_-_Three_Little_Pigs_010.png&quot;&gt;</tw-passagedata><tw-passagedata pid="14" name="Stay Put in the Brick House" tags="" position="856,900" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="15" name="Next." tags="" position="663,717" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Queerie_Queers_-_Three_Little_Pigs_010.png/287px-Queerie_Queers_-_Three_Little_Pigs_010.png&quot;&gt;
+&lt;audio src = &quot;https://freesound.org/data/previews/170/170373_2244250-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="14" name="Next." tags="" position="663,717" size="100,100">The wolf&#39;s first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
 
+&lt;img src = &quot;https://worldstories.org.uk/content/book/262/__picture_9350.jpg&quot;&gt;
 However, the wolf managed to trace the footsteps of your brother to your house, and he is now looking to devour you both.
 
 You have two options: 
 Option 1: Remain in your house, confident that your house will not be blown away by the wolf.
+
 Option 2: Run to your older brother&#39;s brick house to escape the wolf.
 
 Please choose an option.
@@ -167,34 +217,47 @@ Please choose an option.
 (text-colour:(hsl:0,0.8039,0.5,0.3))[//Suddenly, a strange calmness strikes, you see the dark woods outside the window, fitting for hiding...//]
 [[And you goes into the heart of darkness -&gt;In the woods]]
 
-&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Queerie_Queers_-_Three_Little_Pigs_003.png/294px-Queerie_Queers_-_Three_Little_Pigs_003.png&quot;&gt;</tw-passagedata><tw-passagedata pid="16" name="Option 1: Boiling Pot in Fireplace" tags="" position="70,1260" size="100,100">Fortunately, you have made the correct prediction!
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Queerie_Queers_-_Three_Little_Pigs_003.png/294px-Queerie_Queers_-_Three_Little_Pigs_003.png&quot;&gt;
+&lt;audio src = &quot;https://freesound.org/data/previews/535/535011_2346185-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="15" name="Option 1: Boiling Pot in Fireplace" tags="" position="69,1260" size="100,100">Fortunately, you have made the correct prediction!
 
-The wolf made his way ontop of the roof, and planned to go down through the chimney to reach you and your brothers.
+The wolf made his way on top of the roof, and planned to go down through the chimney to reach you and your brothers.
 
 Unfortunately for the wolf, he fell into the boiling pot of water awaiting him at the bottom.
 
+&lt;img src = &quot;https://i0.wp.com/www.tor.com/wp-content/uploads/2018/08/Disney-Pigs07.jpg?resize=740%2C450&amp;type=vertical&amp;ssl=1&quot;&gt;
+
 That very night, you and your brothers enjoyed wolf soup for dinner.
+
+&lt;img src=&quot;https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprodmigration%2Fweb%2Fbin%2F2a062bc7-c597-33df-9751-46af2d1e59da.jpg?crop=780%2C520%2C0%2C0&quot;&gt;
 
 Thank you for your participation and your survival!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="17" name="Option 2: Barricade the Windows" tags="" position="220,1260" size="100,100">Unfortunately, this was not the correct prediction. 
+[[Intro]]
+&lt;audio src = &quot;https://freesound.org/data/previews/397/397435_4019029-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="16" name="Option 2: Barricade the Windows" tags="" position="221,1260" size="100,100">Unfortunately, this was not the correct prediction. 
 
-The wolf made his way ontop of the roof, and planned to go down through the chimney to reach you and your brothers.
+The wolf made his way on top of the roof, and planned to go down through the chimney to reach you and your brothers.
+
+&lt;img src=&quot;https://i.pinimg.com/originals/b8/6e/db/b86edbd7fcec5f4e65fd1b283b0f30d7.jpg&quot; width = 900&gt;
 
 Once the wolf made his way through the chimney and to the fireplace, you and your brothers had no option but to run.
 
 This time, however, the wolf managed to outrun you all. You and your brothers were devoured thereafter. 
 
 Thank you for your participation!
-[[Intro]]</tw-passagedata><tw-passagedata pid="18" name="Down! My House Shall Go Down!" tags="" position="18,586" size="100,100">You pulled down your houseeven before you have seen the wolf. It appears a random haystack, promising no nourishing dinner inside, and the wolf ignore it. Comfortably inside the straws, a strange sleep falls on you, and when you wake up it is dark outside. A sweet tireness softens your bone...
+[[Intro]]
+
+&lt;audio src=&quot;https://freesound.org/data/previews/67/67032_321967-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="17" name="Down! My House Shall Go Down!" tags="" position="18,586" size="100,100">You pulled down your house even before you have seen the wolf. It appears a random haystack, promising no nourishing dinner inside, and the wolf ignore it. Comfortably inside the straws, a strange sleep falls on you, and when you wake up it is dark outside. A sweet tireness softens your bone...
 
 Fin
+
+&lt;img src=&quot;https://live.staticflickr.com/8244/29113190385_9c63a51166_b.jpg&quot;&gt;
 
 (text-colour:(hsl:0,0.8039,0.5,0.7))[//For swine you are, and like a swine you shall live...this is the happiness of a swine//]
 
 (text-colour:(hsl:0,0.8039,0.5,0.3))[But, what if the wolf comes down again?]
 
-[[Next-&gt;...]]</tw-passagedata><tw-passagedata pid="19" name="In the woods" tags="" position="504,827" size="100,100">//Once upon a time there lived on the borders of a great forest a woodman and his wife who had one little daughter, a sweet, kind child, whom everyone loved. She was the joy of her mother&#39;s heart, and to please her, the good woman made her a little scarlet cloak...//
+[[Next-&gt;...]]
+&lt;audio src=&quot;https://freesound.org/data/previews/578/578727_8432823-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="18" name="In the woods" tags="" position="504,826" size="100,100">//Once upon a time there lived on the borders of a great forest a woodman and his wife who had one little daughter, a sweet, kind child, whom everyone loved. She was the joy of her mother&#39;s heart, and to please her, the good woman made her a little scarlet cloak...//
 
 (text-colour:(hsl:0,0.8039,0.5,0.7))[What? I should not be telling this story? But never mind, it&#39;s just a story:)]
 
@@ -212,11 +275,17 @@ Great! The wolf is no more! Heaven sent!
 
 &lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DBP_1960_340_Wohlfahrt_Rotk%C3%A4ppchen.jpg/280px-DBP_1960_340_Wohlfahrt_Rotk%C3%A4ppchen.jpg&quot;&gt;
 
-[[...-&gt;The Heart of Darkness]]</tw-passagedata><tw-passagedata pid="20" name="The Heart of Darkness" tags="" position="491,1047" size="100,100">10th of September last, two...found in the wood, one being the old lady...the other, a deformed creature...first dicovered by the girl...(text-colour:red)[in Scarlet]
+[[...-&gt;The Heart of Darkness]]
+
+&lt;audio src=&quot;https://freesound.org/data/previews/6/6859_731-lq.mp3&quot; autoplay loop&gt;</tw-passagedata><tw-passagedata pid="19" name="The Heart of Darkness" tags="" position="491,1047" size="100,100">10th of September last, two...found in the wood, one being the old lady...the other, a deformed creature...first dicovered by the girl...(text-colour:red)[in Scarlet]
 
 [[Now you see it...-&gt;...]]
 
-&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/In_the_Dark_Woods_%285107954480%29.jpg/320px-In_the_Dark_Woods_%285107954480%29.jpg&quot;&gt;</tw-passagedata><tw-passagedata pid="21" name="The Solid Construction" tags="" position="694,941" size="100,100">(text-colour:(hsl:0,0.8039,0.5,0.8))[You do trust your construction...or simplay fail to see?]
+&lt;img src = &quot;https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/In_the_Dark_Woods_%285107954480%29.jpg/320px-In_the_Dark_Woods_%285107954480%29.jpg&quot;&gt;
+
+&lt;audio src = &quot;https://freesound.org/data/previews/515/515974_10771194-lq.mp3&quot; autoplay&gt;</tw-passagedata><tw-passagedata pid="20" name="The Solid Construction" tags="" position="640,944" size="100,100">(text-colour:(hsl:0,0.8039,0.5,0.8))[You do trust your construction...or simply fail to see?]
+
+&lt;img src = &quot;https://i.pinimg.com/originals/84/e2/5b/84e25b47aaae2d4aaf5f64329288f32b.jpg&quot;&gt;
 
 The wolf huffs and puffs, huffs and puffs, //and the fine structure disintegrates//
 
@@ -226,21 +295,22 @@ The wolf huffs and puffs, huffs and puffs, //and the fine structure disintegrate
 
 (text-colour:(hsl:0,0.8039,0.5,0.8))[&quot;...and never a solid core.&quot;]
 
-[[...]]</tw-passagedata><tw-passagedata pid="22" name="..." tags="" position="96,278" size="100,100">You wake up and find all this a dream.
+[[...]]
+
+&lt;audio src = &quot;https://freesound.org/data/previews/441/441286_5106192-lq.mp3&quot; autoplay loop&gt;</tw-passagedata><tw-passagedata pid="21" name="..." tags="" position="95,278" size="100,100">You wake up and find all this a dream.
 
 It&#39;s a dream, so it&#39;s like everywhere but leads to no end, and does not necessarily make any sense.
 
 You recollect those horrible details: those surely could not make a good story but can still be interesting... aren&#39;t they?
 
 
-
-
-
-
+&lt;image src=&quot;https://img.culturacolectiva.com/content/2017/03/melancholy-paintings-munch-w636-h600.jpg&quot;&gt;
 
 (text-colour:(hsl:0,0.8039,0.5,0.45))[BUT MANY FIND THEIR OLD NIGHTMARES PURSUE THEM, AND THAT TAINT OF DARKNESS PERMEATES THEIR HEART!]
 
-[[Time to wake up...-&gt;Intro]]</tw-passagedata></tw-storydata>
+[[Time to wake up...-&gt;Intro]]
+
+&lt;audio src=&quot;https://freesound.org/data/previews/92/92734_245459-lq.mp3&quot; autoplay loop&gt;</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">"use strict";var _slicedToArray=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,a=!1,i=void 0;try{for(var o,s=e[Symbol.iterator]();!(r=(o=s.next()).done)&&(n.push(o.value),!t||n.length!==t);r=!0);}catch(e){a=!0,i=e}finally{try{!r&&s.return&&s.return()}finally{if(a)throw i}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}!function(){
 /**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
