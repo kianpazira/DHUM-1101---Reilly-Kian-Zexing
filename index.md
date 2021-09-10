@@ -39,11 +39,11 @@ Which option interests you most?
 
 [[Option 1: Straw House]]
 [[Option 2: Wood House]]
-[[Option 3: Brick House]]</tw-passagedata><tw-passagedata pid="5" name="Option 1: Straw House" tags="" position="229,606" size="100,100">Congratulations on your new straw home!
+[[Option 3: Brick House]]</tw-passagedata><tw-passagedata pid="5" name="Option 1: Straw House" tags="" position="158,541" size="100,100">Congratulations on your new straw home!
 
 The first week has passed, and your new home has been holding up well without any structural damage.
 
-However, you hear that a very large, hungry wolf is making an appearance to the small town your house is situated in.
+However, you hear that a very large, hungry wolf is making an appearance to the small village your house is situated in.
 
 His first stop is your house, and there is a very high chance that he will attempt to blow down your house to devour you.
 
@@ -54,7 +54,43 @@ Option 2: Run to your brother&#39;s wooden house to escape the wolf.
 Please choose an option.
 
 [[Stay Put]]
-[[Escape to Wooden House]]</tw-passagedata><tw-passagedata pid="6" name="Option 2: Wood House" tags="" position="521,652" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="811,626" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="8" name="Escape to Wooden House" tags="" position="130,764" size="100,100">You have successfully arrived at your brother&#39;s wooden house, however the wolf managed to follow you there by following your footsteps.
+[[Escape to Wooden House]]</tw-passagedata><tw-passagedata pid="6" name="Option 2: Wood House" tags="" position="521,617" size="100,100">Congratulations on your new straw home!
+
+The first week has passed, and your new home has been holding up well without any structural damage.
+
+However, you hear that a very large, hungry wolf is making an appearance to the small village your house is situated in.
+
+His first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
+
+However, the wolf managed to trace the footsteps of your brother to your house, and he is now looking to devour you both.
+
+You have two options: 
+Option 1: Remain in your house, confident that your house will not be blown away by the wolf.
+Option 2: Run to your older brother&#39;s brick house to escape the wolf.
+
+Please choose an option.
+
+[[Stay Put]]
+[[Escape to Brick House]]</tw-passagedata><tw-passagedata pid="7" name="Option 3: Brick House" tags="" position="794,600" size="100,100">Congratulations on your new straw home!
+
+The first week has passed, and your new home has been holding up well without any structural damage.
+
+However, you hear that a very large, hungry wolf is making an appearance to the small village your house is situated in.
+
+His first stop was your younger brother&#39;s straw house, to which he was able to blow down to shambles. Fortunately, your brother was able to escape before the wolf could get his hands on him. 
+
+However, the wolf managed to trace the footsteps of your brother to your other brother&#39;s wooden house. Once again, they were able to escape the wolf and ventured off to your brick house. The wolf managed to follow them this time as well. 
+
+The wolf is the most hungry he has ever been, and he is looking to devour all three of you. 
+
+You have two options: 
+Option 1: Remain in your house, confident that your house will not be blown away by the wolf.
+Option 2: Run to your older brother&#39;s brick house to escape the wolf.
+
+Please choose an option.
+
+[[Stay Put in the Brick House]]
+[[Escape]]</tw-passagedata><tw-passagedata pid="8" name="Escape to Wooden House" tags="" position="130,764" size="100,100">You have successfully arrived at your brother&#39;s wooden house, however the wolf managed to follow you there by following your footsteps.
 
 Now, you and your brother have an important decision to make: 
 
@@ -64,7 +100,7 @@ Or, you both may escape to your other brother&#39;s brick house to avoid being e
 Which do you choose?
 
 [[Stay Put]] 
-[[Escape to Brick House]] </tw-passagedata><tw-passagedata pid="9" name="Stay Put" tags="" position="560,1145" size="100,100">Unfortunately, the wolf was able to blow the house down, and he devoured you.
+[[Escape to Brick House]] </tw-passagedata><tw-passagedata pid="9" name="Stay Put" tags="" position="566,1113" size="100,100">Unfortunately, the wolf was able to blow the house down, and he devoured you.
 
 Thank you for playing!
 
@@ -77,17 +113,19 @@ The wolf has once again been able to follow you to the house, and he is the most
 
 The hungry wolf was unable to blow the house down, regardless of how hard he blew.
 
-After many unsuccessful tries, the wolf became too fatigued, and he alternatively ventured to a nearby town in search of rabbits to snack on. 
+After many unsuccessful tries, the wolf tried to sneak down the chimney, but your eldest brother outsmarted the wolf by placing a boiling pot of wate to the bottom of the chimney. 
+
+You and your brothers enjoyed wolf soup thereafter. 
 
 Congratulations on your survival!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="12" name="Escape" tags="" position="295,1110" size="100,100">Unfortunately, the wolf could not be fooled again. He was expecting you and your brothers to escape the house.
+[[Intro]]</tw-passagedata><tw-passagedata pid="12" name="Escape" tags="" position="312,1133" size="100,100">Unfortunately, the wolf could not be fooled again. He was expecting you and your brothers to escape the house.
 
 You had a good run, but sadly, you and your brothers provided the wolf with a 3-course meal.
 
 Thank you for your participation!
 
-[[Intro]]</tw-passagedata></tw-storydata>
+[[Intro]]</tw-passagedata><tw-passagedata pid="13" name="Stay Put in the Brick House" tags="" position="736,776" size="100,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">"use strict";var _slicedToArray=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,a=!1,i=void 0;try{for(var o,s=e[Symbol.iterator]();!(r=(o=s.next()).done)&&(n.push(o.value),!t||n.length!==t);r=!0);}catch(e){a=!0,i=e}finally{try{!r&&s.return&&s.return()}finally{if(a)throw i}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}!function(){
 /**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
