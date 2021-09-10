@@ -15,9 +15,9 @@ What would you like to do?
 &lt;img src=&quot;https://image.slidesharecdn.com/t-t-5080-the-three-little-pigs-story-powerpoint-141127060151-conversion-gate02/95/the-three-little-pigs-story-2-638.jpg?cb=1417068238&quot;&gt;
 
 [[Get Started!]]
-[[Quit]]</tw-passagedata><tw-passagedata pid="2" name="Quit" tags="" position="724,303" size="100,100">Thank you!
+[[Quit]]</tw-passagedata><tw-passagedata pid="2" name="Quit" tags="" position="748,299" size="100,100">Thank you!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="3" name="Get Started!" tags="" position="382,310" size="100,100">You have chosen to start this journey...
+[[Intro]]</tw-passagedata><tw-passagedata pid="3" name="Get Started!" tags="" position="325,302" size="100,100">You have chosen to start this journey...
 Welcome!
 
 You are a pig, living peacefully in the countryside.
@@ -27,7 +27,7 @@ You will be starting a new life, and you will need to build a home!
 
 &lt;img src=&quot;assets/three-little-pigs.jpg&quot;&gt;
 
-[[Continue]]</tw-passagedata><tw-passagedata pid="4" name="Continue" tags="" position="536,474" size="100,100">You are given three routes to building your home.
+[[Continue]]</tw-passagedata><tw-passagedata pid="4" name="Continue" tags="" position="536,438" size="100,100">You are given three routes to building your home.
 
 Option 1: You construct your home out of straw, but you will spend a total of 1 day constructing it. With the time you save, you will be able to start your new life earlier.  
 
@@ -68,7 +68,26 @@ Which do you choose?
 
 Thank you for playing!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="10" name="Escape to Brick House" tags="" position="74,925" size="100,100">Fortunately, you and your brother have successfully arrived at your third brother&#39;s brick house</tw-passagedata></tw-storydata>
+[[Intro]]</tw-passagedata><tw-passagedata pid="10" name="Escape to Brick House" tags="" position="258,960" size="100,100">Fortunately, you and your brother have successfully arrived at your third brother&#39;s brick house. 
+
+The wolf has once again been able to follow you to the house, and he is the most hungry he has ever been. Once again, you and your brothers must make a decision to either stay put in the house or escape.
+
+[[Stay Put in Brick House]]
+[[Escape]]</tw-passagedata><tw-passagedata pid="11" name="Stay Put in Brick House" tags="" position="145,1110" size="100,100">Fortunately, staying put in the brick house was the correct decision in this case. 
+
+The hungry wolf was unable to blow the house down, regardless of how hard he blew.
+
+After many unsuccessful tries, the wolf became too fatigued, and he alternatively ventured to a nearby town in search of rabbits to snack on. 
+
+Congratulations on your survival!
+
+[[Intro]]</tw-passagedata><tw-passagedata pid="12" name="Escape" tags="" position="295,1110" size="100,100">Unfortunately, the wolf could not be fooled again. He was expecting you and your brothers to escape the house.
+
+You had a good run, but sadly, you and your brothers provided the wolf with a 3-course meal.
+
+Thank you for your participation!
+
+[[Intro]]</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">"use strict";var _slicedToArray=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,a=!1,i=void 0;try{for(var o,s=e[Symbol.iterator]();!(r=(o=s.next()).done)&&(n.push(o.value),!t||n.length!==t);r=!0);}catch(e){a=!0,i=e}finally{try{!r&&s.return&&s.return()}finally{if(a)throw i}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}!function(){
 /**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
