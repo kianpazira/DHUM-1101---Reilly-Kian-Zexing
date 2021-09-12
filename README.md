@@ -3,8 +3,8 @@
 A choose-your-own adventure
 By Kian, Zexing, and Reilly
 
-Click the link below to access our story!
-https://kianpazira.github.io/DHUM-1101---Reilly-Kian-Zexing/
+Click the link below to access our story!\
+https://kianpazira.github.io/DHUM-1101---Reilly-Kian-Zexing/\
 
 # How To Edit The Twine (For the team)
 
