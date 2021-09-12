@@ -1,7 +1,10 @@
-# Twine Story
+# Twine Story (See link below)
 
 A choose-your-own adventure
 By Kian, Zexing, and Reilly
+
+Click the link below to access our story!
+https://kianpazira.github.io/DHUM-1101---Reilly-Kian-Zexing/
 
 # How To Edit The Twine (For the team)
 
@@ -14,4 +17,3 @@ Step 6: When you're done, use the up arrow next to the name of story, and hit "P
 Step 7: Name the file "index.md"\
 Step 8: Add the file to the github repository\
 Step 9: Commit the changes!\
-https://kianpazira.github.io/DHUM-1101---Reilly-Kian-Zexing/
